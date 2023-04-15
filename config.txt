@@ -1,14 +1,16 @@
 {
-  "list":"https://anenasa.github.io/channel/config.txt",
-  "channelList": [
+    "channelList": [
+    {
+      "list":"https://anenasa.github.io/channel/config.txt"
+    },
     {
       "url": "https://aka03p.akamaized.net/litv/fet005.smil/playlist.m3u8",
-      "name": "TVBS新聞 (LiTV)",
+      "name": "TVBS新聞+",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
       "url": "https://aka03p.akamaized.net/litv/fet002.smil/playlist.m3u8",
-      "name": "東森新聞 (LiTV)",
+      "name": "東森新聞+",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     }
   ]
